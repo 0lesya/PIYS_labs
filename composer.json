@@ -1,13 +1,1 @@
-{
-    "autoload": {
-        "psr-4": {
-            "Lab1\\": "."
-        }
-    },
-
-    "require": {
-        "symfony/validator": "^6.2",
-        "doctrine/annotations": "^2.0"
-    }
-  
-}
+{}
